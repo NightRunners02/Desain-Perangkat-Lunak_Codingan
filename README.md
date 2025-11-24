@@ -1,5 +1,3 @@
-- Preview Website: https://nightrunners02.github.io/Desain-Perangkat-Lunak_Codingan/
----
 <details> 
   <summary>
   <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
